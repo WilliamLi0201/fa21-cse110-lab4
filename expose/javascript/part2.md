@@ -21,15 +21,15 @@ Q10. It will print 3, the constant variable length is set to 3 at the beginning.
 Q11. The function will return a list of discountedPrice(s), [50,100,150], because each discountedPrice is pushed to the list.
 
 Q12. 
-A student.name
-B student['Grad Year']
-C student.greeting()
-D student['Favorite Teacher'].name
+A student.name \n
+B student['Grad Year'] \n
+C student.greeting() \n
+D student['Favorite Teacher'].name \n
 E student.courseLoad[0]
 
 Q13. 
-A Output is ‘32’. + will make integer 2 becomes string '2'.
-B Output is 1. - will make string '3' becomes integer 3.
+A Output is ‘32’. + will make integer 2 becomes string '2'. \n
+B Output is 1. - will make string '3' becomes integer 3. \n
 C Output is 3. null becomes an integer.
 D Output is '3null'. null becomes a string.
 E Output is 4. true becomes integer 1.
